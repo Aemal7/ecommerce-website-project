@@ -2,7 +2,7 @@ function App() {
   return (
     <div>
       <header>
-        <a href="/">amazona</a>
+        <a href="/">Bhakkar X Lahore Shop</a>
       </header>
       <main>list products</main>
     </div>
